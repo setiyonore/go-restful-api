@@ -1,5 +1,6 @@
 ###get all categories
 GET localhost:3000/api/categories
+X-API-KEY: RAHASIA
 Accept: application/json
 
 ###create new category
